@@ -1,6 +1,9 @@
 # Auto_ImageTagging
 Creates tags based on ALS + Deep Neural Networks and Selenium for Caption Generation using Copy.ai
 
+Open Project_2_IS_Datathon for Project final document
+Open Captions_sele for selenium 
+
 Link to Video Presentation:
 https://drive.google.com/file/d/12e6RUc_kFHVJOzIsXiTkx330uLaJwKKa/view?usp=sharing
 
