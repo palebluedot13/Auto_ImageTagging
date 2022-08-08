@@ -4,8 +4,10 @@ Creates tags based on ALS + Deep Neural Networks and Selenium for Caption Genera
 Open Project_2_IS_Datathon for Project final document
 Open Captions_sele for selenium 
 
+Link to presentation (Updated):
+
+https://www.canva.com/design/DAFHYVGMv00/XKElp3JlVlo2Ed90oEvB8Q/view?utm_content=DAFHYVGMv00&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+
+
 Link to Video Presentation:
 https://drive.google.com/file/d/12e6RUc_kFHVJOzIsXiTkx330uLaJwKKa/view?usp=sharing
-
-Link to presentation:
-https://www.canva.com/design/DAE-6tbUT4A/j9O06THuONbP647gxozSLw/view?utm_content=DAE-6tbUT4A&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
